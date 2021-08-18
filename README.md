@@ -1,3 +1,3 @@
-### API based in Rocktseat class
+### API based in the youtube class `Rocktseat class` by `Diego Fernandes`
 
-### Youtube class https://www.youtube.com/watch?v=BN_8bCfVp88
+### Youtube video class https://www.youtube.com/watch?v=BN_8bCfVp88
